@@ -1,3 +1,3 @@
-number=input("enter your number: ")
+number=input("Enter your number: ")
 
 print(number)
